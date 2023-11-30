@@ -6,3 +6,6 @@ Once we receive a query record for the following domain names on our non-open DN
 
 Returns an all-zero address 0.0.0.0
 返回全零地址 0.0.0.0
+
+
+
